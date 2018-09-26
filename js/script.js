@@ -7,7 +7,7 @@ text.fontSize = 30;
 text.fontWeight = 700;
 text.justification = 'center';
 text.fillColor = 'white';
-text.content = 'Press Letter Keys To start';
+text.content = '     Press Letter Keys To start     '; // empty sapces because the text get cut from the side when first appearing on screen
 text.position = new Point((view.size.width) / 2, view.size.height / 2);
 text.opacity = 1;
 
